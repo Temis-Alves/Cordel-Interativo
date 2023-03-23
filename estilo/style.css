@@ -19,8 +19,9 @@
  }
 
  html, body {
-   min-width: 100vh;
+   min-height: 100vh;
    font-family: var(--fonte1);
+   font-size: 1em;
  }
 
  header {
