@@ -77,7 +77,6 @@
 
  section.imagem > p {
   background-color: rgba(0, 0, 0, 0.216);
-  background-size: cover;
   display: inline-block;
   padding: 5px;
   border-radius: 5px;
@@ -93,6 +92,7 @@
  #img02 {
   background-image: url('../imagens/background002.jpg');
   background-attachment: fixed;
+  background-size: cover;
  }
  footer {
   background-color: black;
